@@ -1,4 +1,4 @@
-# Hi, I'm Ato Codes (@atocodes) 👋
+# Hi, I'm Ato Codes 👋
 
 **Self-taught Software Engineer & Brand Designer**  
 Minimalist • Creator of [Xpense](https://github.com/atocodes/Xpense) & [ato-hub](https://github.com/atocodes/ato-hub)  
