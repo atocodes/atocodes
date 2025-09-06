@@ -1,24 +1,35 @@
-# 👋 Hi, I'm Beamlak Tadesse
+# Hi, I'm Ato Codes (@atocodes) 👋
 
-### 💫 About Me
-Software Developer | Tech Enthusiast | Artist  
-Collaborating on open-source and personal projects.  
-📫 [Email me](mailto:atocodes@gmail.com)  
-🌐 [Website](https://portfolio-mu-olive-98.vercel.app/) | [Telegram Group](https://t.me/atocodes)
+**Self-taught Software Engineer & Brand Designer**  
+Minimalist • Creator of [Xpense](https://github.com/atocodes/Xpense) & [ato-hub](https://github.com/atocodes/ato-hub)  
+I build things from ideas to deployment, and sometimes make weird TikToks out of the blue.
 
 ---
 
-### 🌐 Connect
-[LinkedIn](https://linkedin.com/in/atocodes) • [GitHub](https://github.com/atocodes) • [Instagram](https://instagram.com/atocodes) • [YouTube](https://youtube.com/@atocodes)
+## 💻 Tech Stack
+
+- **Languages:** Dart, JavaScript, TypeScript, Python, GDScript, C#
+- **Frameworks:** Flutter, Next.js, Node.js, FastAPI, Godot
+- **Platforms:** Telegram bots, Web, Mobile
 
 ---
 
-### 💻 Tech Stack
-C# • Dart • Flutter • JavaScript • Node.js • FastAPI • MongoDB • Git • Firebase
+## 🚀 Projects I’m Proud Of
+
+- [Xpense](https://github.com/atocodes/Xpense) — Smart expense tracker
+- [ato-hub](https://github.com/atocodes/ato-hub) — Personal productivity and automation hub
 
 ---
 
-### ✍️ Quote
-_"Code is like humor. When you have to explain it, it’s bad."_  
+## 🌍 Connect With Me
 
-[![](https://visitcount.itsvg.in/api?id=atocodes&icon=0&color=0)](https://visitcount.itsvg.in)
+- [LinkedIn](https://www.linkedin.com/in/atocodes)
+- [YouTube](https://www.youtube.com/@atocodes)
+- [Telegram](https://t.me/atocodes)
+- [Website](https://portfolio-mu-olive-98.vercel.app/)
+
+---
+
+> _"I do weird TikToks out of the blue, like what? You can't expect one."_
+
+<!-- Minimal, clean, and a little unpredictable. Let's build something cool! -->
